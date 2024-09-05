@@ -2,4 +2,4 @@ streamlit
 streamlit-folium
 scikit-learn
 matplotlib
-yellowbrick
+streamlit scikit-learn matplotlib yellowbrick
